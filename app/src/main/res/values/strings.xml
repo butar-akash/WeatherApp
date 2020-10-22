@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="Button_name">Get Info</string>
+    <string name="edit_text">Enter State</string>
+</resources>
